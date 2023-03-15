@@ -1,6 +1,8 @@
 # Give the robot moves
 **List the names and NetID for your partners here.**
 
+Hongyu Shen hs692, Sylvie Chen xc455, Haohua Liu hl766, Tsung-Yin Hsieh th542, Jonathan Tan jmt362
+
 Now, let's control our robots to make them move intuitively. 
 
 As you have seen, it's pretty easy to control the wheels with Python! However, it's not easy for us as humans to move the robot in ways that feel right while thinking in terms of individual wheel velocity. If you are a gamer, you might be pretty familiar with controlling avatars with joystick controllers or keyboard keys (WASD). In today's lab, let's map joystick controller commands to wheel velocities in Python.
@@ -205,6 +207,14 @@ Try it! Make your controller rumble!
 
 ** **Come up with three ways where the rumble feature can benefit WoZ deployment or other applications. Describe these in your deliverables.** **
 
+
+1.  When encountering obstacles, the rumble feature can provide feedback for the person who’s operating. When the hoverboard gets closer to an obstacle, the controller vibrates more intensely. This interactive feedback system is helpful for the operator to navigate through spaces crowded with obstacles.
+
+2.  When the weight on the hoverboard overloads, the controller can notify operators through rumbling while disabling its movement. The intensity of the rumbling can vary with different amounts of weight overload.
+
+3.  Rumbling can also be used as a low battery warning. For instance, it can be represented by intermittent, fast-paced vibrations.
+
+
 ## Part D. Map buttons to control
 I have written some code that subscribe to the `/joy` topic and publish a [twist](http://docs.ros.org/en/lunar/api/geometry_msgs/html/msg/Twist.html) message accordingly. A twist message consists of two vectors, one represents linear velocity and one represents angular velocity.
 
@@ -312,6 +322,10 @@ The `joy_node` reads in controller commands, the `joy_teleop_keymapping_node` ma
 </details>
 
 Now, press and hold `L1` on your controller and play with the two joysticks. Hopefully your wheels will start spinning now!
+
+
+https://user-images.githubusercontent.com/6706384/224107293-38f74270-7966-4845-a55c-796930817b8e.MOV
+
 
 ### Again, deliverables for this lab are: 
 
