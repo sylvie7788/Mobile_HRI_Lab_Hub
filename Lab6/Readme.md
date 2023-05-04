@@ -1,6 +1,8 @@
 # Choreographing Movement
 **List the names and NetID for your partners here.**
 
+Hongyu Shen hs692, Sylvie Chen xc455, Haohua Liu hl766, Tsung-Yin Hsieh th542, Jonathan Tan jmt362
+
 It is about time to have a functioning mobile robot! Starting from this lab, you should prioritize either robot building and/or study design. 
 
 ## Prep
@@ -97,10 +99,16 @@ ros2 launch ydlidar_ros2_driver ydlidar_launch.py
 To visualize your LiDAR reading, open foxglove studio in vnc viewer. Then, click 3D in the left panel.
 
 ### Again, deliverables for this lab are: 
+We finished connecting all the wires for this robot, but we got USB interface problem on our Odrive, so we cannot move our robot now.
+We asked the TA, and he said we can upload the video after spring break. We will finish it once we solve the hardware problem.
+
+<img width="650" alt="Odrive Interface Problem" src="https://user-images.githubusercontent.com/112031955/228399014-35484025-a3f0-4f98-aa0f-683a44c9675f.png">
 
 0. Photos of your robot prototype
 1. A video of your robot moving around
 2. A sketch of a series movements based on your final project
+![IMG_E0004DEA47CF-1](https://user-images.githubusercontent.com/112031955/228397945-4ee79d70-2932-4536-a2d3-663b88bb0a38.jpeg)
+
 3. A video showing your robot perform the movements in 2.
 4. Reflect upon your design, what would you do differently?
 
