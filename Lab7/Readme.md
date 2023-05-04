@@ -1,8 +1,6 @@
 # Interact with with people + chatty robot
 
-
-**List the names and NetID for your partners here.**
-
+Hongyu Shen hs692, Sylvie Chen xc455, Haohua Liu hl766, Tsung-Yin Hsieh th542, Jonathan Tan jmt362
 
 In this lab, let's try out some moves with our robots and make them talk!
 
@@ -21,9 +19,16 @@ If you haven't finished your robot chassis, try to wrap it up in this lab.
 
 
 1. Before/after sketches of your robot interacting with people
+
+<img width="958" alt="Screen Shot 2023-04-11 at 10 58 30 AM" src="https://user-images.githubusercontent.com/6706384/231203803-a4565eac-b787-4553-8dcf-b79006497481.png">
+
+
 2. A video sketch of your designed interaction
 3. Videos trying out elicited interactions
 4. Before/after sketch of your robot interacting with people through motion and voice
+
+<img width="998" alt="Screen Shot 2023-04-11 at 10 58 44 AM" src="https://user-images.githubusercontent.com/6706384/231203860-5142b532-10e1-4645-b006-e33d88dad93d.png">
+
 5. A video sketch of your designed interaction
 6. Videos trying out elicited verbal interaction
 
@@ -115,6 +120,10 @@ Based on your final project proposal, sketch out a simple interaction scenario w
 
 Be mindful of the others around you. Be safe.
 
+You can review all the robot commands, interactions and our reflection through the google doc below!
+
+https://docs.google.com/document/d/1uyyh6jB2OZ_J3br4UbRV4Xkh6IJwJM0roEygCFeIdJA/edit?usp=sharing
+
 ### Again, the deliverables for this lab are:
 
 
@@ -124,8 +133,4 @@ Be mindful of the others around you. Be safe.
 4. Before/after sketch of your robot interacting with people through motion and voice
 5. A video sketch of your designed interaction
 6. Videos trying out elicited verbal interaction
-
-
-
-
 
