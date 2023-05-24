@@ -24,5 +24,5 @@ Please place links here to the README.md's for each of your labs here:
 [Optional Material.](Optional_Material/Readme.md)
 
 
-[Optional Material.](Final_Documentation.pdf)
+[Final Documentation](Final_Documentation.pdf)
 
